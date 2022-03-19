@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @yoddit
 - 👀 I’m interested in ... full stack developing
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... HTML, CSS, Javascript
 - 💞️ I’m looking to collaborate on ... anything!
 - 📫 How to reach me ... yoddit.mclean@gmail.com
 
